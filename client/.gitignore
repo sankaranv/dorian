@@ -2,6 +2,8 @@
 node_modules
 /dist
 
+# Twitter keys
+server/twitter_keys.txt
 
 # local env files
 .env.local

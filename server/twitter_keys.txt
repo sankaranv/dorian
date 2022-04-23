@@ -1,0 +1,9 @@
+Twitter Developer
+
+App Name - Revertigo
+API Key - hLu0UQu7yVurEJzf8L9AAxElE
+API Key Secret - yyhTrQDaCiJizHIWTTTKRjBoTkqFgPZWJSfnd4cqi6YhMcwiU1
+Bearer Token - AAAAAAAAAAAAAAAAAAAAAKVsbgEAAAAAx%2BIlwGEstd7pTJpyqcZzVjjViFU%3D676SIt5xyGfCA9o14DV0QPHCauteZ5oRyiJvqY32pznuX9DxJE
+
+Client ID - dVJYcFV4SmZIUnR5dTEyYzhLeEU6MTpjaQ
+Client Secret - aPJdFRXC19eW-b2WGn8CLpNOWMe2cMIW2zHuucHyWZWKLa1W_I
